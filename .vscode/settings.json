@@ -1,0 +1,4 @@
+{
+    "rpc.buttonEnabled": true,
+    "rpc.idleTimeout": 3000
+}
